@@ -5,7 +5,7 @@ All GitHub repositories found and evaluated for BD Co-Pilot project.
 ## Bucket A: Agent Frameworks
 
 | # | Repo | URL |
-|---|------|-----|
+|---|-------|-----|
 | 1 | openclaw/openclaw | https://github.com/openclaw/openclaw |
 | 2 | manabie-com/agentic-openclaw | https://github.com/manabie-com/agentic-openclaw |
 | 3 | openclaw/dataforge | https://github.com/openclaw/dataforge |
@@ -13,7 +13,7 @@ All GitHub repositories found and evaluated for BD Co-Pilot project.
 ## Bucket B: AI BDR / Sales Outreach
 
 | # | Repo | URL |
-|---|------|-----|
+|---|-------|-----|
 | 4 | getsoyuz/soyuz | https://github.com/getsoyuz/soyuz |
 | 5 | pypesdev/coldflow | https://github.com/pypesdev/coldflow |
 | 6 | moaljumaa/linki | https://github.com/moaljumaa/linki |
@@ -25,49 +25,37 @@ All GitHub repositories found and evaluated for BD Co-Pilot project.
 ## Bucket C: Lead Gen & Enrichment
 
 | # | Repo | URL |
-|---|------|-----|
+|---|-------|-----|
 | 11 | buyukakyuz/email-sleuth | https://github.com/buyukakyuz/email-sleuth |
 | 12 | apify/actor-enrich-cold-leads-api | https://github.com/apify/actor-enrich-cold-leads-api |
 | 13 | hubspot/sample-apps | https://github.com/hubspot/sample-apps |
+| 14 | Brightdata | https://github.com/brightdata |
 
 ## Bucket D: Multi-Agent Board Room
 
 | # | Repo | URL |
-|---|------|-----|
-| 14 | sunitj/Colloquip | https://github.com/sunitj/Colloquip |
-| 15 | techidesignai/AIStaffRoom | https://github.com/techidesignai/AIStaffRoom |
+|---|-------|-----|
+| 15 | sunitj/Colloquip | https://github.com/sunitj/Colloquip |
+| 16 | techidesignai/AIStaffRoom | https://github.com/techidesignai/AIStaffRoom |
 
 ## Bucket E: Supabase Starters
 
 | # | Repo | URL |
-|---|------|-----|
-| 16 | supabase/start | https://github.com/supabase/start |
-| 17 | Razikus/supabase-nextjs-template | https://github.com/Razikus/supabase-nextjs-template |
-| 18 | supabase/supabase-auth-template | https://github.com/supabase/supabase-auth-template |
-| 19 | supabase/basic-storage-nodejs | https://github.com/supabase/basic-storage-nodejs |
-| 20 | lyqht/awesome-supabase | https://github.com/lyqht/awesome-supabase |
+|---|-------|-----|
+| 17 | supabase/start | https://github.com/supabase/start |
+| 18 | Razikus/supabase-nextjs-template | https://github.com/Razikus/supabase-nextjs-template |
+| 19 | supabase/supabase-auth-template | https://github.com/supabase/supabase-auth-template |
+| 20 | supabase/basic-storage-nodejs | https://github.com/supabase/basic-storage-nodejs |
+| 21 | lyqht/awesome-supabase | https://github.com/lyqht/awesome-supabase |
+| 22 | getlago/lago | https://github.com/getlago/lago |
 
 ## Bucket F: Skills Library / Prompt Recipes
 
 | # | Repo | URL |
-|---|------|-----|
-| 21 | openclaw/skills | https://github.com/openclaw/skills |
-| 22 | openclaw/77 | https://github.com/openclaw/77 |
+|---|-------|-----|
+| 23 | openclaw/skills | https://github.com/openclaw/skills |
+| 24 | openclaw/77 | https://github.com/openclaw/77 |
 
 ---
 
-## Other Repos (Billing / Metering)
-
-| # | Repo | URL |
-|---|------|-----|
-| 23 | getlago/lago | https://github.com/getlago/lago |
-
-## Data / Scraping Providers
-
-| # | Repo | URL |
-|---|------|-----|
-| 24 | brightdata | https://github.com/brightdata |
-
----
-
-**Total Repos:** 24
+**Total: 24 repositories across 6 buckets**
